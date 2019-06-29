@@ -41,6 +41,7 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 40px;overflow-x: hidden;
+  margin-bottom: 50px;
 }
 body{
 	background: #fff;
